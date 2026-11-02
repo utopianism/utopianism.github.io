@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "Z8C9NFD29A.com.bellman.rmpush",
+        "paths": ["/wechat-demo/*"]
+      }
+    ]
+  }
+}
