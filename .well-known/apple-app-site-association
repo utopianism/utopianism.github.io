@@ -3,7 +3,7 @@
     "apps": [],
     "details": [
       {
-        "appID": "Z8C9NFD29A.com.bellman.rmpush",
+        "appID": "Z8C9NFD29A.bellman.com.MNI-VMS.device",
         "paths": ["/wechat-demo/*"]
       }
     ]
